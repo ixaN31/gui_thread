@@ -27,7 +27,7 @@ public class karalama4 extends JFrame implements Runnable {
                 return;
             }
             if (yazi.isEmpty()) {
-                yazi = "EŞŞEK ZOZAN";
+                yazi = "EŞŞEK";
             } else {
                 yazi = "";
             }
